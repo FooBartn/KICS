@@ -6,6 +6,8 @@ Voice Commands
 * Speed 75
 * Speed to 75
 * Three quarter ahead
+* Approach
+* Approach speed
 
 Actions
 
