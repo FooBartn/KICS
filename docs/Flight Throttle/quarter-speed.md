@@ -1,5 +1,3 @@
-# 1/4 Speed Ahead
-
 Voice Commands
 
 * 25

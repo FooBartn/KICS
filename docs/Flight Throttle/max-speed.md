@@ -1,5 +1,3 @@
-# Max Speed
-
 Voice Commands
 
 * 100

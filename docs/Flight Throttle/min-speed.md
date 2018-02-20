@@ -1,5 +1,3 @@
-# Stop
-
 Voice Commands
 
 * Zero

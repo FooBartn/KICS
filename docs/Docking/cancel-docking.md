@@ -1,5 +1,3 @@
-# Cancel Docking
-
 Voice Commands
 
 * Cancel docking

@@ -1,5 +1,3 @@
-# Speed Up
-
 Voice Commands
 
 * Faster

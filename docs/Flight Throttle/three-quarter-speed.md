@@ -1,5 +1,3 @@
-# 3/4 Speed Ahead
-
 Voice Commands
 
 * 75
@@ -11,4 +9,4 @@ Voice Commands
 
 Actions
 
-Set Speed to 75%
+* Set Speed to 75%

@@ -1,5 +1,3 @@
-# Request Docking
-
 Voice Commands:
 
 * Request docking

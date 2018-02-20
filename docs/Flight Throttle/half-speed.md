@@ -1,5 +1,3 @@
-# Half Speed Ahead
-
 Voice Commands
 
 * 50

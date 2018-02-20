@@ -1,5 +1,3 @@
-# Prepare For Docking
-
 Voice Commands
 
 * Prepare for docking
