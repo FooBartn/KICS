@@ -4,7 +4,9 @@ Voice Commands
 
 * 100
 * Full ahead
+* Full speed
 * Max speed
+* Maximum speed
 * Max velocity
 * Maximum velocity
 * Speed 100
